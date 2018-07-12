@@ -2,7 +2,7 @@ defmul(m,n):
 if(n>0):
 print(m,n)
 
-returnm+mul(m,n-1) 
+return m+mul(m,n-1) 
 
 else:
 return0
